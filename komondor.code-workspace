@@ -1,0 +1,51 @@
+{
+	"folders": [
+		{
+			"path": "komondor"
+		},
+		{
+			"path": "komondor-fileserver",
+			"name": "komondor-fileserver"
+		},
+		{
+			"path": "komondor-api",
+			"name": "komondor-api"
+		},
+		{
+			"path": "komondor-plugin"
+		},
+		{
+			"path": "komondor-test"
+		},
+		{
+			"path": "komondor-plugin-node"
+		},
+		{
+			"path": "komondor-plugin-ws"
+		},
+		{
+			"path": "komondor-web",
+			"name": "komondor-web"
+		},
+		{
+			"path": "komondor-example-jest",
+			"name": "komondor-example-jest"
+		},
+		{
+			"path": "assertron",
+			"name": "assertron"
+		},
+		{
+			"path": "satisfier",
+			"name": "satisfier"
+		},
+		{
+			"path": "tersify",
+			"name": "tersify"
+		}
+	],
+  "settings": {
+		"window.title": "${activeEditorShort}${separator}${folderName}${separator}${rootName}",
+		"typescript.tsdk": "komondor/node_modules/typescript/lib"
+	}
+}
